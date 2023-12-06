@@ -53,16 +53,18 @@ I'm looking for a Senior Engineering role working on building responsive and acc
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 ![Testing Library Badge](https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=fff&style=for-the-badge)
 
-#### Databases
+### Databases
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 
-#### Cloud Technologies
+### Cloud Technologies
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge)
 
+## My Stats 📈
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wayne-jones&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayne-jones&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayne-jones&layout=compact&theme=vision-friendly-dark)
 
 <!--
 **Wayne-Jones/Wayne-Jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
